@@ -1,0 +1,6 @@
+Name,Cnic,Student Duplicate Flag
+John Smith,1122.0,False
+John Smith,6110000000000.0,False
+John Smith,1122.0,True
+Ali Raza,112234.0,False
+John Smith,1122,True
